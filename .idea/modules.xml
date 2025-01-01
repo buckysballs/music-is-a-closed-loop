@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/music-is-a-closed-loop.iml" filepath="$PROJECT_DIR$/.idea/modules/music-is-a-closed-loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/music-is-a-closed-loop.music-is-a-closed-loop-build.iml" filepath="$PROJECT_DIR$/.idea/modules/music-is-a-closed-loop.music-is-a-closed-loop-build.iml" />
+    </modules>
+  </component>
+</project>
